@@ -1,0 +1,3 @@
+Pickpaw is a web-based pet adoption and management system built primarily in PHP and CSS, backed by a MySQL database. It enables users (pet adoptees, veterinarians and admin staff) to register, log in, view and manage pets, book appointments, request adoptions and maintain veterinary profiles. Key features include pet profile creation, veterinarian listings, appointment booking, pet registration and adoption request handling. All these are designed to streamline the workflow for a small-scale animal care or adoption centre.
+
+Designed as an open-source demo platform, it offers a modular layout (with db.php, SQL schema PetSite-6.sql, frontend pages like index.php, view_pets.php, user flows for login/register/logout) for easy extension, customization and deployment.
